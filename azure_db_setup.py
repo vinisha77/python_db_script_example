@@ -4,7 +4,7 @@ import pyodbc
 server = 'vaishaliserver.database.windows.net'
 database = 'vaishalidb'
 username = 'vaishaliadmin'
-password = 'vinay1986!'  # Ideally, use a secure way to handle passwords
+password = '*******'  # Ideally, use a secure way to handle passwords
 driver = '{ODBC Driver 17 for SQL Server}'
 
 # Establish connection
